@@ -3,7 +3,7 @@
 	height:20px;
 	border:solid 1px lightgrey;
 	padding:5px;
-	background-color:#ccccff;
+	background-color:#eeeeee;
 }
 #box2{
 	width:400px;
@@ -16,18 +16,18 @@
 	height:95px;
 	border:solid 1px lightgrey;
 	padding:5px;
-	background-color:#eeeeff;
+	background-color:white;
 }#box4{
 	width:400px;
 	height:40px;
 	border:solid 1px lightgrey;
 	padding:5px;
-	background-color:#eeeeff;
+	background-color:white;
 }#box5{
 	width:410px;
 	height:260px;
 	border:solid 1px lightgrey;
-	background-color:#eeeeff;
+	background-color:white;
 }
 .small-box-1{
 	width:20%;
